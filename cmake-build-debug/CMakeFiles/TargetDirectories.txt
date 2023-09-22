@@ -1,0 +1,3 @@
+C:/Users/mr_ak/CLionProjects/Intro2Prog/cmake-build-debug/CMakeFiles/Intro2Prog.dir
+C:/Users/mr_ak/CLionProjects/Intro2Prog/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mr_ak/CLionProjects/Intro2Prog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
