@@ -16,4 +16,5 @@ int main (){
         printf("stop");
 
     }
+    return 0;
 }

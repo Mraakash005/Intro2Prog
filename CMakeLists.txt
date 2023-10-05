@@ -3,8 +3,5 @@ project(Intro2Prog C)
 
 set(CMAKE_C_STANDARD 17)
 
-add_executable(Intro2Prog main.c
-        file.c
-        file1.c
-        file1.c
+add_executable(Intro2Prog
         file2.c)
