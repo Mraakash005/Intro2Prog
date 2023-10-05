@@ -1,2 +1,6 @@
 #include <stdio.h>
-int main()
+int main() {
+  printf("aakash");
+
+return 0;
+}
