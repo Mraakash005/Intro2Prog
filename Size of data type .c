@@ -2,4 +2,4 @@
 int main (){
     int a=5;
     printf("%f",(float)sizeof(a));
-}
+}   
