@@ -1,12 +1,13 @@
 # ninja log v5
-4	844	7180254179552688	CMakeFiles/Intro2Prog.dir/project.c.obj	afe27d26cc9e937e
 3	713	7175380405639129	CMakeFiles/Intro2Prog.dir/main.c.obj	318f5c6456f33ab3
+4	844	7180254179552688	CMakeFiles/Intro2Prog.dir/project.c.obj	afe27d26cc9e937e
+4	318	7184788971238460	Intro2Prog.exe	934f328fc9aa39ea
 0	795	7182155382566990	CMakeFiles/Intro2Prog.dir/Increment_&_decrement_operator.c.obj	7bf20b29a8ecd4e1
 0	414	7182154164262055	CMakeFiles/Intro2Prog.dir/file3.c.obj	b93a8c1b76786b57
-3	293	7184786729627183	Intro2Prog.exe	52f8b1860d8ddadd
-4	724	7182066296445660	CMakeFiles/Intro2Prog.dir/file.c.obj	8d18b6465a2634fb
-2	442	7184788967509897	build.ninja	c67cd8a620ac3228
+3	770	7185761612205847	CMakeFiles/Intro2Prog.dir/File7.c.obj	b7cda6ff43798c4f
+1	470	7185766919792008	build.ninja	c67cd8a620ac3228
 1	747	7182167378061095	CMakeFiles/Intro2Prog.dir/Factorial.c.obj	b670b551e9ac30d
+4	724	7182066296445660	CMakeFiles/Intro2Prog.dir/file.c.obj	8d18b6465a2634fb
 2	751	7182074923300594	CMakeFiles/Intro2Prog.dir/file1.c.obj	40f67dc5baafba79
 157	1858	7182089820411582	CMakeFiles/Intro2Prog.dir/file2.c.obj	a7d2b65f5a3bc5e
 0	435	7182148954005760	CMakeFiles/Intro2Prog.dir/Increment_&_decrement.c.obj	1f723bc98de524bb
@@ -16,5 +17,6 @@
 88	1338	7184783560054043	CMakeFiles/Intro2Prog.dir/file4.c.obj	a685cd819eb310e3
 5	773	7184786436457970	CMakeFiles/Intro2Prog.dir/File5.c.obj	60f77c8fcf06b2b5
 3	745	7184788616872265	CMakeFiles/Intro2Prog.dir/File6.c.obj	dd293b24087d4b73
-1	470	7184788967509897	build.ninja	c67cd8a620ac3228
-4	318	7184788971238460	Intro2Prog.exe	934f328fc9aa39ea
+2	502	7185766919792008	build.ninja	c67cd8a620ac3228
+1	766	7185766928083119	CMakeFiles/Intro2Prog.dir/File7.c.obj	b7cda6ff43798c4f
+767	1074	7185766931122518	Intro2Prog.exe	8def0cdaae150f28
