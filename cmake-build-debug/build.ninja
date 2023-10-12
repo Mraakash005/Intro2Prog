@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: Intro2Prog
+# Project: C_Programming
 # Configurations: Debug
 # =============================================================================
 
@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/mr_ak/CLionProjects/Intro2Prog/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Intro2Prog
+# Object build statements for EXECUTABLE target C_Programming
 
 
 #############################################
-# Order-only phony target for Intro2Prog
+# Order-only phony target for C_Programming
 
-build cmake_object_order_depends_target_Intro2Prog: phony || CMakeFiles/Intro2Prog.dir
+build cmake_object_order_depends_target_C_Programming: phony || CMakeFiles/C_Programming.dir
 
-build CMakeFiles/Intro2Prog.dir/file18.c.obj: C_COMPILER__Intro2Prog_unscanned_Debug C$:/Users/mr_ak/CLionProjects/Intro2Prog/file18.c || cmake_object_order_depends_target_Intro2Prog
-  DEP_FILE = CMakeFiles\Intro2Prog.dir\file18.c.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Intro2Prog.dir
-  OBJECT_FILE_DIR = CMakeFiles\Intro2Prog.dir
+build CMakeFiles/C_Programming.dir/File19.c.obj: C_COMPILER__C_Programming_unscanned_Debug C$:/Users/mr_ak/CLionProjects/Intro2Prog/File19.c || cmake_object_order_depends_target_C_Programming
+  DEP_FILE = CMakeFiles\C_Programming.dir\File19.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C_Programming.dir
+  OBJECT_FILE_DIR = CMakeFiles\C_Programming.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Intro2Prog
+# Link build statements for EXECUTABLE target C_Programming
 
 
 #############################################
-# Link the executable Intro2Prog.exe
+# Link the executable C_Programming.exe
 
-build Intro2Prog.exe: C_EXECUTABLE_LINKER__Intro2Prog_Debug CMakeFiles/Intro2Prog.dir/file18.c.obj
+build C_Programming.exe: C_EXECUTABLE_LINKER__C_Programming_Debug CMakeFiles/C_Programming.dir/File19.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Intro2Prog.dir
+  OBJECT_DIR = CMakeFiles\C_Programming.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Intro2Prog.exe
-  TARGET_IMPLIB = libIntro2Prog.dll.a
-  TARGET_PDB = Intro2Prog.exe.dbg
+  TARGET_FILE = C_Programming.exe
+  TARGET_IMPLIB = libC_Programming.dll.a
+  TARGET_PDB = C_Programming.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Intro2Prog: phony Intro2Prog.exe
+build C_Programming: phony C_Programming.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Intro2Prog: phony Intro2Prog.exe
 #############################################
 # Folder: C:/Users/mr_ak/CLionProjects/Intro2Prog/cmake-build-debug
 
-build all: phony Intro2Prog.exe
+build all: phony C_Programming.exe
 
 # =============================================================================
 # Built-in targets

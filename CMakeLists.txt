@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.26)
-project(Intro2Prog C)
+project(C_Programming C)
 
-set(CMAKE_C_STANDARD 17)
+set(CMAKE_C_STANDARD 11)
 
-add_executable(Intro2Prog
-        file18.c)
+add_executable(C_Programming
+        File19.c)

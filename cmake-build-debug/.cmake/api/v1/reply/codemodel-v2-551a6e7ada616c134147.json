@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "Intro2Prog",
+					"name" : "C_Programming",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Intro2Prog::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Intro2Prog-Debug-dd1752d6ff2fb0394ba3.json",
-					"name" : "Intro2Prog",
+					"id" : "C_Programming::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C_Programming-Debug-92093f4b52c364cdde19.json",
+					"name" : "C_Programming",
 					"projectIndex" : 0
 				}
 			]
