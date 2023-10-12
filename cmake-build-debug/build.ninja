@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/mr_ak/CLionProjects/Intro2Prog/cmake-build-debug
 
 build cmake_object_order_depends_target_Intro2Prog: phony || CMakeFiles/Intro2Prog.dir
 
-build CMakeFiles/Intro2Prog.dir/File16.c.obj: C_COMPILER__Intro2Prog_unscanned_Debug C$:/Users/mr_ak/CLionProjects/Intro2Prog/File16.c || cmake_object_order_depends_target_Intro2Prog
-  DEP_FILE = CMakeFiles\Intro2Prog.dir\File16.c.obj.d
+build CMakeFiles/Intro2Prog.dir/file17.c.obj: C_COMPILER__Intro2Prog_unscanned_Debug C$:/Users/mr_ak/CLionProjects/Intro2Prog/file17.c || cmake_object_order_depends_target_Intro2Prog
+  DEP_FILE = CMakeFiles\Intro2Prog.dir\file17.c.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Intro2Prog.dir
   OBJECT_FILE_DIR = CMakeFiles\Intro2Prog.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Intro2Prog.dir/File16.c.obj: C_COMPILER__Intro2Prog_unscanned_D
 #############################################
 # Link the executable Intro2Prog.exe
 
-build Intro2Prog.exe: C_EXECUTABLE_LINKER__Intro2Prog_Debug CMakeFiles/Intro2Prog.dir/File16.c.obj
+build Intro2Prog.exe: C_EXECUTABLE_LINKER__Intro2Prog_Debug CMakeFiles/Intro2Prog.dir/file17.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Intro2Prog.dir
