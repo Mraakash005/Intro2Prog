@@ -4,4 +4,4 @@ project(C_Programming C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C_Programming
-        File51.c)
+        File52.c)
