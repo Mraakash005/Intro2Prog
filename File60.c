@@ -4,7 +4,7 @@ int main()
 {
     FILE *fp;
     char data[100];
-    fp= fopen("sample.txt","r");
+    fp= fopen("sample01.txt","r");
     if(fp!=NULL)
     {
         printf("FILE OPENED!");

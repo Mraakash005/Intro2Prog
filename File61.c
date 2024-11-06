@@ -3,7 +3,7 @@
 int main()
 {
     FILE *fp;
-    fp= fopen("sample.txt","r");
+    fp= fopen("sample01.txt","r");
     if(fp!=NULL)
     {
         printf("FILE OPENED!");

@@ -13,4 +13,4 @@ int main()
     h=s*e*f*g;
     area=sqrt(h);
     printf("Area of triangle is:%f\n",area);
-}
+} 
